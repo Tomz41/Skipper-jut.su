@@ -1,0 +1,10 @@
+{
+    "name": {
+    "message":"Skiper",
+    "description":"extension name"
+},
+"description":{
+    "message":"Skiper for jutsu",
+    "description":"extension description"
+}
+}
